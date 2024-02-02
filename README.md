@@ -15,6 +15,7 @@ In this project, we address a universal issue in taking group pictures: leaving 
     <img src="/Notebook/Results/solid.jpg" width="200">
 </div>
 
+From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
 
 ## Content
 
