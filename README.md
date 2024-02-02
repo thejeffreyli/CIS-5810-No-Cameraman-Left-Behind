@@ -17,30 +17,6 @@ In this project, we address a universal issue in taking group pictures: leaving 
 
 From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="/Notebook/Images/Nonsolid/source.jpg" width="250">
-    <img src="/Notebook/Images/Nonsolid/target.jpg" width="250">
-    <img src="/Notebook/Results/nonsolid.jpg" width="250">
-</div>
-
-From Left to Right: Source Image, Target Image, and Resulting Image.
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="/Notebook/Images/Sitting/source.jpg" width="250">
-    <img src="/Notebook/Images/Sitting/target.jpg" width="250">
-    <img src="/Notebook/Results/sitting.jpg" width="250">
-</div>
-
-From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="/Notebook/Images/Livedemo/source.jpg" width="250">
-    <img src="/Notebook/Images/Livedemo/target.jpg" width="250">
-    <img src="/Notebook/Results/livedemo.jpg" width="250">
-</div>
-
-From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
-
 ## Content
 
 - **Documents:** contains all of the typed deliverables
@@ -86,3 +62,29 @@ After you satisfy all the requirements mentioned above, there are some steps you
     - Define Source and Target Image: Choose your source and target images from the Images folder. Do not mix and match between folders.
     - Compare with Ground Truth: If you have a ground truth image (real image or Photoshopped Image), please add it here. If not, please ignore this section. There is only one Ground Truth image in our Images file, and it is Images/Solid/groundtruth.jpeg.
     - Save Output: Choose a name for your output file and save it to the Results folder.
+
+## Sample Results
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Nonsolid/source.jpg" width="250">
+    <img src="/Notebook/Images/Nonsolid/target.jpg" width="250">
+    <img src="/Notebook/Results/nonsolid.jpg" width="250">
+</div>
+
+From Left to Right: Source Image, Target Image, and Resulting Image.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Sitting/source.jpg" width="250">
+    <img src="/Notebook/Images/Sitting/target.jpg" width="250">
+    <img src="/Notebook/Results/sitting.jpg" width="250">
+</div>
+
+From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Livedemo/source.jpg" width="250">
+    <img src="/Notebook/Images/Livedemo/target.jpg" width="250">
+    <img src="/Notebook/Results/livedemo.jpg" width="250">
+</div>
+
+From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
