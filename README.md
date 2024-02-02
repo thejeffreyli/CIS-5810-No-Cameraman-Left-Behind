@@ -20,33 +20,25 @@ Last Updated: December 15, 2022
     - Images: contains different types of images used as source or target 
     - Results: contains working results from our program
 
-## Program Requirements (if running on Google Colab)
+## Program and System Requirements
+
+We developed this primarily on Google Colab, using Python, PyTorch, and CUDA GPU.
 
 Packages to Install:
 
-!pip install segmentation_models_pytorch
+```
+pip install numpy
+pip install Pillow
+pip install torch
+pip install torchvision
+pip install segmentation-models-pytorch
+pip install albumentations
+pip install tqdm
+pip install matplotlib
+pip install opencv-python
+pip install scikit-image
 
-Packages to Import:
-
-import os
-import numpy as np
-from PIL import Image
-import torch
-from torch import nn, optim
-from torch.utils.data import Dataset, DataLoader
-import torchvision
-import segmentation_models_pytorch as smp
-import albumentations as A  
-from albumentations.pytorch import ToTensorV2
-from tqdm import tqdm
-import matplotlib.pyplot as plt
-import cv2
-from skimage.measure import label, regionprops, find_contours
-from google.colab import drive
-
-## System Requirements
-
-We developed this primarily on Google Colab, using Python, PyTorch, and CUDA GPU.
+```
 
 ## How to Run
 
