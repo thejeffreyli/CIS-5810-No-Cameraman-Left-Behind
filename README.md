@@ -17,6 +17,30 @@ In this project, we address a universal issue in taking group pictures: leaving 
 
 From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Nonsolid/source.jpg" width="200">
+    <img src="/Notebook/Images/Nonsolid/target.jpg" width="200">
+    <img src="/Notebook/Results/nonsolid.jpg" width="200">
+</div>
+
+From Left to Right: Source Image, Target Image, and Resulting Image.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Sitting/source.jpg" width="200">
+    <img src="/Notebook/Images/Sitting/target.jpg" width="200">
+    <img src="/Notebook/Results/sitting.jpg" width="200">
+</div>
+
+From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="/Notebook/Images/Livedemo/source.jpg" width="200">
+    <img src="/Notebook/Images/Livedemo/target.jpg" width="200">
+    <img src="/Notebook/Results/livedemo.jpg" width="200">
+</div>
+
+From Left to Right: Source Image, Target Image, Photoshop Ground Truth, and Resulting Image.
+
 ## Content
 
 - **Documents:** contains all of the typed deliverables
